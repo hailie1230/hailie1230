@@ -9,10 +9,10 @@
 
 <h2>📚 Study Note</h2>
 <ul>
-  <li><a href="https://hailie1230.github.io/diary/" title="html css note">HTML & CSS</a></li>
-  <li><a href="https://www.notion.so/JS-note-b48d49fd897f4f44a6d086f79dfd27a7" title="JAVASCRIPT Note">JAVASCRIPT</a></li>
-  <li><a href="https://www.notion.so/React-Note-fbb2c7e247654d2cb090c9cbf0906857" title="REACT Note">REACT</a></li>
-  <li><a href="https://www.notion.so/PHP-dc2586ac3ce44253a7b4445290dbf457" title="PHP Note">PHP</a></li>
+  <li><a href="https://hailie1230.github.io/diary/" title="html css note" target="_">HTML & CSS</a></li>
+  <li><a href="https://www.notion.so/JS-note-b48d49fd897f4f44a6d086f79dfd27a7" title="JAVASCRIPT Note" target="_">JAVASCRIPT</a></li>
+  <li><a href="https://www.notion.so/React-Note-fbb2c7e247654d2cb090c9cbf0906857" title="REACT Note" target="_">REACT</a></li>
+  <li><a href="https://www.notion.so/PHP-dc2586ac3ce44253a7b4445290dbf457" title="PHP Note" target="_">PHP</a></li>
 </ul>
 
 
@@ -32,17 +32,17 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://hailie1230.github.io/js_catching_moles/" title="CATCHING MOLES GAME">
+        <a href="https://hailie1230.github.io/js_catching_moles/" title="CATCHING MOLES GAME" target="_">
           <img align="center" src="img/projects_moles.jpg" width="300" alt-text="CATCHING MOLES GAME">
         </a>
       </td>
       <td>
-        <a href="https://hailie-youtube.netlify.app/" title="youtube clone coding">
+        <a href="https://hailie-youtube.netlify.app/" title="youtube clone coding" target="_">
           <img align="center" src="img/projects_youtube.jpg" width="300" alt-text="Youtube Clone Coding">
         </a>
       </td>
       <td>
-        <a href="http://hailie01.dothome.co.kr/php/pages/main.php" title="php website">
+        <a href="http://hailie01.dothome.co.kr/php/pages/main.php" title="php website" target="_">
           <img align="center" src="img/projects_php.jpg" width="300" alt-text="PHP Website">
         </a>
       </td>
@@ -60,7 +60,7 @@
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://hailie1230.github.io/portfolio/">More projects...</a></em></b>
+<b><em><a href="https://hailie1230.github.io/portfolio/" target="_">More projects...</a></em></b>
 
 
 
